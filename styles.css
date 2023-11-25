@@ -68,10 +68,6 @@ html {
     cursor: pointer;
 }
 
-.nav {
-
-}
-
 .links {
     display: flex;
     column-gap: 45px;
@@ -216,10 +212,6 @@ html {
     display: block;
 }
 
-.credentials {
-
-}
-
 /* CREDENTIALS */
 
 .credentials{
@@ -238,9 +230,6 @@ html {
     text-transform: uppercase;
 }
 
-.credential {
-
-}
 
 /* HOW SECTION */
 
